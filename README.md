@@ -1,4 +1,6 @@
-# Data Analysis of the churn rate for Waze Navigation App
+# Data Analysis portfolio 
+
+## 1. Analysis of the churn rate for Waze Navigation App
 
 Hi, Kelly here. I worked as business analyst for more than 2 years, but paused for few years because of motherhood and relocation to Singapore.
 
@@ -8,3 +10,5 @@ To reinforce all the analytical skills, I have taken Google advanced data analyt
 
 Please check details in jupyter notebook: https://github.com/kellymengxuan/Data-Analyst-Portfolio/blob/main/portfolio_project_Waze/project-profile.ipynb
 
+# 2. SQL skills 
+# 3. Excel skills
